@@ -6,6 +6,7 @@ import TrackChangesIcon from '@mui/icons-material/TrackChanges';
 import SecurityIcon from '@mui/icons-material/Security';
 import ContactSupportIcon from '@mui/icons-material/ContactSupport';
 
+
 const Home: React.FC = () => {
   const navigate = useNavigate();
 
